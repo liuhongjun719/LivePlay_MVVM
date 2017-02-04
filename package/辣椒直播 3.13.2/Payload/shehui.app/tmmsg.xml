@@ -1,0 +1,75 @@
+<tmmsg
+    id=""
+    dateline=""
+    from=""
+    type=""
+    system="false"
+    all="false"
+    to="" >
+
+    <send
+        avatar=""
+        nickname=""
+        uid="" />
+
+    <receive
+        avatar=""
+        nickname=""
+        uid="" />
+
+    <active
+        id=""
+        image=""
+        name="">
+        <user id="" />
+        <invite id="" />
+    </active>
+    
+    <tool
+        accept=""
+        mode=""
+        id=""
+        name=""
+        credit=""
+        type="" >
+        <active
+        id=""
+        name=""
+        dateline="" />
+    </tool>
+    
+    <tool_confirm
+        accept=""
+        mode=""
+        id=""
+        pic1=""
+        pic2=""
+        type=""
+        voice="" >
+        <active
+        id="" />
+    </tool_confirm>
+    <gift
+        accept=""
+        mode=""
+        id=""
+        name=""
+        image=""
+        number=""
+        status="" >
+        <dealing id="" />
+    </gift>
+    <vip
+        id=""
+        image=""
+        name=""
+        des=""
+        type="">
+        
+    </vip>
+    <msg
+        body=""
+        file=""
+        file_location="" >
+    </msg>
+</tmmsg>

@@ -1,0 +1,24 @@
+<!--
+ type 1 我的事(quan)通知， 2 活动， 3系统退回金币， 4喜欢， 5热门活动
+ 类型3.4 文字显示在msg-body之中
+ -->
+<!-- quan-type 1 评论，2 点赞 -->
+<notify
+    id=""
+    dateline=""
+    from=""
+    to=""
+    type="" >
+    
+    <send
+    avatar=""
+    nickname=""
+    uid="" />
+    
+    <msg
+    id=""
+    body=""
+    image=""
+    type="" />
+    
+</notify>

@@ -1,0 +1,37 @@
+<gpmsg
+    from=""
+    to=""
+    id=""
+    dateline=""
+    type="" >
+    <send
+        uid=""
+        nickname=""
+        avatar=""
+        role_id="">
+    </send>
+    <msg
+        body=""
+        file=""
+        file_location="" >
+    </msg>
+    <gift
+        id=""
+        mode=""
+        name=""
+        image=""
+        number="" >
+    </gift>
+    <praise
+    num=""/>
+    <action
+        type=""
+        uid=""
+        total_num=""
+        nickname=""
+        role_id=""
+        age=""
+        gender=""
+        avatar="" >
+    </action>
+</gpmsg>

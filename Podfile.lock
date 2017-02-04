@@ -1,0 +1,57 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BarrageRenderer (1.9.0)
+  - DZNEmptyDataSet (1.8.1)
+  - LFLiveKit (2.5)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - RDVTabBarController (1.1.9)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - VTMagic (1.2.4):
+    - VTMagic/Core (= 1.2.4)
+  - VTMagic/Core (1.2.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BarrageRenderer
+  - DZNEmptyDataSet
+  - LFLiveKit
+  - Masonry
+  - MJExtension
+  - MJRefresh
+  - RDVTabBarController
+  - SDWebImage
+  - VTMagic
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BarrageRenderer: a5b54aef34eed1eab48f35ed594082ae446947c9
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  LFLiveKit: 4361bd588ae0c9244589119ccdb1c30d14686414
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  VTMagic: b49e5f456dbcbfd9a3588ba92417233a105bc193
+
+PODFILE CHECKSUM: e4bed5b0fa5f66db51efffc99c11f6caa821ed59
+
+COCOAPODS: 1.1.0.beta.2

@@ -1,0 +1,110 @@
+{
+"ret": "0",
+"msg": "",
+"list": [
+{
+"id": 1,
+"related_id": 1,
+"path": "http://yiqisr.8686c.com/asset/car_1.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 2,
+"related_id": 2,
+"path": "http://yiqisr.8686c.com/asset/car_2.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 4,
+"related_id": 3,
+"path": "http://yiqisr.8686c.com/asset/car_3.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "FRAME"
+},
+{
+"id": 5,
+"related_id": 4,
+"path": "http://yiqisr.8686c.com/asset/car_4.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 6,
+"related_id": 5,
+"path": "http://yiqisr.8686c.com/asset/car_5.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 7,
+"related_id": 6,
+"path": "http://yiqisr.8686c.com/asset/car_6.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 8,
+"related_id": 7,
+"path": "http://yiqisr.8686c.com/asset/car_7.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 9,
+"related_id": 8,
+"path": "http://yiqisr.8686c.com/asset/car_8.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 10,
+"related_id": 9,
+"path": "http://yiqisr.8686c.com/asset/car_9.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 11,
+"related_id": 10,
+"path": "http://yiqisr.8686c.com/asset/car_10.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 12,
+"related_id": 11,
+"path": "http://yiqisr.8686c.com/asset/car_11.zip",
+"ver": 3,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 15,
+"related_id": 12,
+"path": "http://yiqisr.8686c.com/asset/car_12.zip",
+"ver": 1,
+"type": "CAR",
+"subtype": "SINGLE"
+},
+{
+"id": 16,
+"related_id": 13,
+"path": "http://yiqisr.8686c.com/asset/car_13.zip",
+"ver": 1,
+"type": "CAR",
+"subtype": "SINGLE"
+}
+]
+}
